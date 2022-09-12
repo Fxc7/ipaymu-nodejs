@@ -1,0 +1,29 @@
+{
+  "name": "@fxc7/ipaymu",
+  "version": "0.0.1",
+  "description": "Implementation Ipaymu Merchants In Your Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fxc7/ipaymu-nodejs.git"
+  },
+  "keywords": [
+    "Ipaymu",
+    "Dompet digital",
+    "Qris"
+  ],
+  "author": "Farhannnn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fxc7/ipaymu-nodejs/issues"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "crypto-js": "^4.1.1",
+    "form-data": "^4.0.0"
+  },
+  "homepage": "https://github.com/Fxc7/ipaymu-nodejs#readme"
+}
